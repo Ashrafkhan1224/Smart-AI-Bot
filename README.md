@@ -21,32 +21,32 @@ This project uses powerful AI technologies for both text-based interactions and 
 
 🚀 Features :- 
 
-💬 Real-time AI Chat: Engage in conversations and get intelligent responses.
-📤 Image Upload: Upload images and ask related questions.
-🎨 AI-Generated Images: Convert text prompts into images using AI models.
-⚡ Responsive UI: A user-friendly and mobile-friendly design for seamless interaction.
+- 💬 Real-time AI Chat: Engage in conversations and get intelligent responses.
+- 📤 Image Upload: Upload images and ask related questions.
+- 🎨 AI-Generated Images: Convert text prompts into images using AI models.
+- ⚡ Responsive UI: A user-friendly and mobile-friendly design for seamless interaction.
 
 🛠️ Tech Stack
 
-- Frontend:
+1. Frontend:
 
-React – Building reusable UI components.
-Vite – Fast development environment.
-HTML5 & CSS3 – Markup and styling.
+- React – Building reusable UI components.
+- Vite – Fast development environment.
+- HTML5 & CSS3 – Markup and styling.
 
-- APIs & Libraries:
+2. APIs & Libraries:
 
-Gemini API – For AI-powered text generation.
-Hugging Face API – For text-to-image generation.
+- Gemini API – For AI-powered text generation.
+- Hugging Face API – For text-to-image generation.
 
-- Custom API Integration:
+3. Custom API Integration:
 
-gemini.js: Handles AI-generated text responses.
-huggingface.js: Manages image generation based on user prompts.
+- gemini.js: Handles AI-generated text responses.
+- huggingface.js: Manages image generation based on user prompts.
 
-- Build Tools:
+4. Build Tools:
 
-ESLint – Ensures code consistency and quality.
+- ESLint – Ensures code consistency and quality.
 
 # Important Note
 
@@ -55,21 +55,21 @@ ESLint – Ensures code consistency and quality.
 To run this project locally:
 
 1. Clone the repository:
-git clone https://github.com/Ashrafkhan1224/Smart-AI-Bot.git
+- git clone https://github.com/Ashrafkhan1224/Smart-AI-Bot.git
 cd Smart-AI-Bot
 
 2. Install dependencies:
-Make sure you have Node.js installed. Then run : npm install
+- Make sure you have Node.js installed. Then run : npm install
 
 3. API Configuration:
 
 - In gemini.js, replace "Your Api" with your actual Gemini API key
 
-const Api_Url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=YOUR_API_KEY"
+- const Api_Url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=YOUR_API_KEY"
 
 - In huggingface.js, replace "Your Api" with your Hugging Face API key
 
-Authorization: "Bearer YOUR_API_KEY"
+- Authorization: "Bearer YOUR_API_KEY"
 
 4. Run the application: npm run dev
 
