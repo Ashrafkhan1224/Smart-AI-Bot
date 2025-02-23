@@ -56,7 +56,7 @@ To run this project locally:
 
 1. Clone the repository:
 - git clone https://github.com/Ashrafkhan1224/Smart-AI-Bot.git
-cd Smart-AI-Bot
+- cd Smart-AI-Bot
 
 2. Install dependencies:
 - Make sure you have Node.js installed. Then run : npm install
