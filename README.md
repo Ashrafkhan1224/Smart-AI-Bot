@@ -7,8 +7,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-🤖 Smart AI-Bot
-Live Demo: https://smartai-botbyashraf.netlify.app/
+🤖 Smart AI-Bot :- 
+- Live Demo: https://smartai-botbyashraf.netlify.app/  
 
 📋 Description :- 
 Smart AI-Bot is an interactive web application that enables users to:
@@ -26,7 +26,7 @@ This project uses powerful AI technologies for both text-based interactions and 
 - 🎨 AI-Generated Images: Convert text prompts into images using AI models.
 - ⚡ Responsive UI: A user-friendly and mobile-friendly design for seamless interaction.
 
-🛠️ Tech Stack
+🛠️ Tech Stack :- 
 
 1. Frontend:
 
@@ -74,6 +74,12 @@ cd Smart-AI-Bot
 4. Run the application: npm run dev
 
 5. Visit: Open http://localhost:3000 in your browser to test the app locally.
+
+📸 Screenshots
+
+- Here is a preview of the Smart AI-Bot interface:
+
+![Game Screenshot](./images/screenshot.jpg)
 
 🎉 Enjoy!
 Hope you have a great time exploring Smart AI-Bot! 🚀
