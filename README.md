@@ -82,4 +82,4 @@ To run this project locally:
 ![Game Screenshot](./images/screenshot.jpg)
 
 🎉 Enjoy!
-Hope you have a great time exploring Smart AI-Bot! 🚀
+Hope you have a great time exploring Smart Ai-Bot! 🚀
